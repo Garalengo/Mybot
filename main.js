@@ -1,5 +1,5 @@
 // СЛИЛ: https://endway.org/@forch/
-
+const token = process.env.BOT_TOKEN || require('./config.json').token;
 const TelegramBot = require('node-telegram-bot-api');
 const sqlite3 = require('sqlite3').verbose();
 const config = require('./config.json');
