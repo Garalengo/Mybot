@@ -1,3 +1,4 @@
+
 {
   "name": "mybot",
   "version": "1.0.0",
@@ -7,6 +8,6 @@
     "start": "node main.js"
   },
   "dependencies": {
-    "node-telegram-bot-api"
+    "node-telegram-bot-api": "^0.61.0"
   }
 }
