@@ -4,7 +4,7 @@
   "subscribemsg": "🚀 Сначала подпишитесь на все каналы, затем отправьте /start!",
   "telegramBotToken": "token",
   "startDate": "2026-06-29",
-  "requiredChannels": "coinref_official",
+  "requiredChannels": "@coinref_official",
   "replenish": "💳 <b>Для пополнения баланса осуществите перевод средств на любые удобные реквизиты:</b> \n\nБанк. карта: <code>5599 0020 6118 7136</code> \n\nUSDT TRC-20: <code>UQDF2G1qtie4fpJddP5c-Vu3mgfds9tMOguGksq7IuS2RQU3</code> (по актуальному курсу) \n\nTON: <code>UQD5HtX5d5xAcbNN-TIlg8qDUahlArqrcH4X0hrf0_FhLrqs</code> (по актуальному курсу) \n\nВ описании перевода обязательно укажите комментарий: <code>REF{id}</code>",
   "channel": "https://t.me/COINREF_OFFICIAL",
   "chat": "https://t.me/+bQeQ-7kJGH9iMWYy",
