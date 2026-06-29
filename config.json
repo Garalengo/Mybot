@@ -1,0 +1,22 @@
+{
+  "admin": "id,id,id",
+  "hellomsg": "⚡️ <b>Добро пожаловать в лучший бот по заработку баланса в @VerixShopBot без вложений!</b> \n\nВ нашем боте Вы можете без особых усилий начать пассивно зарабатывать фиксированную сумму за каждого приведённого человека в наши каналы и чаты!\n\n<b>❔Почему мы?</b>\n <i>Мы выплачиваем реальные деньги на Ваш баланс магазина Verix Shop за приглашённых пользователей, которые подпишутся на наши ресурсы. Наша выгода в том, что мы получаем пассивную аудиторию и продаём рекламу. А вам, в свою очередь, выплачиваем часть доходов независимо от размера нашей чистой прибыли.</i>\n\n📢 Так же в боте присутствуют услуги продвижения на выгодных условиях! \n\n✅️ Новостной канал  - @VetixNews\n📚 Наши проекты - @VerixProjects",
+  "subscribemsg": "🚀 Сначала подпишитесь на все каналы, затем отправьте /start!",
+  "telegramBotToken": "token",
+  "startDate": "2025-01-01",
+  "requiredChannels": "@VerixNews,@VerixProjects",
+  "replenish": "💳 <b>Для пополнения баланса осуществите перевод средств на любые удобные реквизиты:</b> \n\nБанк. карта: <code>0000 0000 0000 0000</code> \n\nUSDT TRC-20: <code>TBJ8xcdqfgYsBMkJkFnxyBC1pbJHgYWkea</code> (по актуальному курсу) \n\nTON: <code>UQD5HtX5d5xAcbNN-TIlg8qDUahlArqrcH4X0hrf0_FhLrqs</code> (по актуальному курсу) \n\nВ описании перевода обязательно укажите комментарий: <code>REF{id}</code>",
+  "channel": "https://t.me/link",
+  "chat": "https://t.me/link",
+  "reviews": "https://t.me/link",
+  "rules": "https://teletype.in/@forch/rules_wf",
+  "withdraws": "@link",
+  "refPrice": "5.0",
+  "refPrice2": "2.5",
+  "maxaddedrequiredchannels": "5",
+  "priceperhour": "50.0",
+  "minAmount": "10.0",
+  "priceperuser": "0.5",
+  "currency": "₽",
+  "canpromote": "yes"
+}
