@@ -15,8 +15,8 @@ from telethon import TelegramClient
 from telethon.sessions import StringSession
 from telethon.errors import SessionPasswordNeededError
 
-TOKEN = '' # token @botfather
-OWNER_ID =          # admin id
+TOKEN = '8681290539:AAHDwwcOWFR5IYC15VY1Bda7DUZA9wkL5ms' 
+OWNER_ID =          1632364169
 DATA_FILE = 'users.json'
 SESSION_DIR = 'sessions'
 
