@@ -1,8 +1,7 @@
-
 {
   "name": "mybot",
   "version": "1.0.0",
-  "description": "Телеграм бот",
+  "description": "",
   "main": "main.js",
   "scripts": {
     "start": "node main.js"
