@@ -2,7 +2,15 @@
 // Бот для заработка с рефералами, заданиями и промокодами
 // Версия: 3.0 (исправленная, с новыми функциями)
 // ============================================================
-
+bot.onText(/\/testchannel/, async (msg) => {
+    const chatId = msg.chat.id;
+    try {
+        const chat = await bot.getChat('@COINREF_OFFICIAL');
+        bot.sendMessage(chatId, '✅ Канал найден! Название: ' + chat.title);
+    } catch (e) {
+        bot.sendMessage(chatId, '❌ Ошибка: ' + e.message + '\n\nБот не видит канал. Проверьте, что:\n1. Канал публичный\n2. Бот администратор\n3. Бот участник канала');
+    }
+});
 const TelegramBot = require('node-telegram-bot-api');
 const sqlite3 = require('sqlite3').verbose();
 const config = require('./config.json');
